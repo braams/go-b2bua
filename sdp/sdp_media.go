@@ -29,7 +29,7 @@ package sippy_sdp
 import (
     "strings"
 
-    "sippy/net"
+    "github.com/braams/sippy/net"
 )
 
 type SdpMedia struct {

@@ -27,10 +27,10 @@
 package sippy
 
 import (
-    "sippy/conf"
-    "sippy/headers"
-    "sippy/time"
-    "sippy/types"
+    "github.com/braams/sippy/conf"
+    "github.com/braams/sippy/headers"
+    "github.com/braams/sippy/time"
+    "github.com/braams/sippy/types"
 )
 
 type UaStateConnected struct {

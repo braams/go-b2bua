@@ -30,10 +30,10 @@ import (
     "sync"
     "time"
 
-    "sippy/headers"
-    "sippy/net"
-    "sippy/time"
-    "sippy/types"
+    "github.com/braams/sippy/headers"
+    "github.com/braams/sippy/net"
+    "github.com/braams/sippy/time"
+    "github.com/braams/sippy/types"
 )
 
 type clientTransaction struct {

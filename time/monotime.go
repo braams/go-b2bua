@@ -40,7 +40,7 @@ import (
     "strconv"
     "time"
 
-    "sippy/math"
+    "github.com/braams/sippy/math"
 )
 
 type MonoTime struct {

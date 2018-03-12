@@ -29,8 +29,8 @@ package sippy_header
 import (
     "strconv"
 
-    "sippy/net"
-    "sippy/utils"
+    "github.com/braams/sippy/net"
+    "github.com/braams/sippy/utils"
 )
 
 type SipCSeqBody struct {

@@ -31,8 +31,8 @@ import (
     "time"
     "sync"
 
-    "sippy/log"
-    "sippy/utils"
+    "github.com/braams/sippy/log"
+    "github.com/braams/sippy/utils"
 )
 
 type Timeout struct {

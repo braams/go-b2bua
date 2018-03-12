@@ -32,8 +32,8 @@ import (
     "fmt"
     "strings"
 
-    "sippy/net"
-    "sippy/utils"
+    "github.com/braams/sippy/net"
+    "github.com/braams/sippy/utils"
 )
 
 type SipWWWAuthenticateBody struct {

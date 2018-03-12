@@ -27,7 +27,7 @@ package sippy_utils
 import (
     "sync"
 
-    "sippy/log"
+    "github.com/braams/sippy/log"
 )
 
 func SafeCall(function func(), lock sync.Locker, logger sippy_log.ErrorLogger) {

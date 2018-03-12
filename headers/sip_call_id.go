@@ -31,8 +31,8 @@ import (
     "crypto/rand"
     "fmt"
 
-    "sippy/conf"
-    "sippy/net"
+    "github.com/braams/sippy/conf"
+    "github.com/braams/sippy/net"
 )
 
 type SipCallId struct {

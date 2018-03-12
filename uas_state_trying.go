@@ -27,9 +27,9 @@
 package sippy
 
 import (
-    "sippy/conf"
-    "sippy/time"
-    "sippy/types"
+    "github.com/braams/sippy/conf"
+    "github.com/braams/sippy/time"
+    "github.com/braams/sippy/types"
 )
 
 type UasStateTrying struct {

@@ -29,7 +29,7 @@ import (
     "errors"
     "strings"
 
-    "sippy/net"
+    "github.com/braams/sippy/net"
 )
 
 type sipReasonBody struct {

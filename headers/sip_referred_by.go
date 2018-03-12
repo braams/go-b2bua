@@ -27,8 +27,8 @@
 package sippy_header
 
 import (
-    "sippy/net"
-    "sippy/conf"
+    "github.com/braams/sippy/net"
+    "github.com/braams/sippy/conf"
 )
 
 type SipReferredBy struct {

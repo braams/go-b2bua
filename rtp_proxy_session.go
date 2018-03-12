@@ -34,10 +34,10 @@ import (
     "runtime"
     "sync"
 
-    "sippy/conf"
-    "sippy/net"
-    "sippy/sdp"
-    "sippy/types"
+    "github.com/braams/sippy/conf"
+    "github.com/braams/sippy/net"
+    "github.com/braams/sippy/sdp"
+    "github.com/braams/sippy/types"
 )
 
 type Rtp_proxy_session struct {

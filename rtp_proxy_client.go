@@ -33,9 +33,9 @@ import (
     "strings"
     "sync"
 
-    "sippy/conf"
-    "sippy/log"
-    "sippy/types"
+    "github.com/braams/sippy/conf"
+    "github.com/braams/sippy/log"
+    "github.com/braams/sippy/types"
 )
 
 func NewRtpProxyClient(opts *rtpProxyClientOpts, config sippy_conf.Config, logger sippy_log.ErrorLogger) (sippy_types.RtpProxyClient, error) {

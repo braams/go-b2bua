@@ -40,11 +40,11 @@ import (
     "syscall"
     "time"
 
-    "sippy"
-    "sippy/conf"
-    "sippy/log"
-    "sippy/net"
-    "sippy/types"
+    "github.com/braams/sippy"
+    "github.com/braams/sippy/conf"
+    "github.com/braams/sippy/log"
+    "github.com/braams/sippy/net"
+    "github.com/braams/sippy/types"
 )
 
 var next_cc_id chan int64

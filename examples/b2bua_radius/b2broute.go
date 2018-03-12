@@ -33,10 +33,10 @@ import (
     "strings"
     "time"
 
-    "sippy"
-    "sippy/conf"
-    "sippy/headers"
-    "sippy/net"
+    "github.com/braams/sippy"
+    "github.com/braams/sippy/conf"
+    "github.com/braams/sippy/headers"
+    "github.com/braams/sippy/net"
 )
 
 type ainfo_item struct {

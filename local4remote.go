@@ -29,8 +29,8 @@ package sippy
 import (
     "net"
 
-    "sippy/conf"
-    "sippy/net"
+    "github.com/braams/sippy/conf"
+    "github.com/braams/sippy/net"
 )
 
 type local4remote struct {

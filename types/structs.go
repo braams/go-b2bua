@@ -25,7 +25,7 @@
 package sippy_types
 
 import (
-    "sippy/time"
+    "github.com/braams/sippy/time"
 )
 
 type Ua_context struct {

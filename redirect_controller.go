@@ -27,7 +27,7 @@
 package sippy
 
 import (
-    "sippy/types"
+    "github.com/braams/sippy/types"
 )
 
 type redirectController struct {

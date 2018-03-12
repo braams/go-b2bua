@@ -30,7 +30,7 @@ import (
     "fmt"
     "strings"
 
-    "sippy/net"
+    "github.com/braams/sippy/net"
 )
 
 type SdpMediaDescription struct {

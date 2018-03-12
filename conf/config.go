@@ -32,8 +32,8 @@ import (
     "net"
     "os"
 
-    "sippy/log"
-    "sippy/net"
+    "github.com/braams/sippy/log"
+    "github.com/braams/sippy/net"
 )
 
 type Config interface {

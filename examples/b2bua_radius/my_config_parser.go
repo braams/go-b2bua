@@ -33,9 +33,9 @@ import (
     "strings"
     "time"
 
-    "sippy/conf"
-    "sippy/log"
-    "sippy/net"
+    "github.com/braams/sippy/conf"
+    "github.com/braams/sippy/log"
+    "github.com/braams/sippy/net"
 )
 
 type myConfigParser struct {

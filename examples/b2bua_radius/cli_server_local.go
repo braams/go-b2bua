@@ -30,8 +30,8 @@ import (
     "net"
     "os"
 
-    "sippy/log"
-    "sippy/utils"
+    "github.com/braams/sippy/log"
+    "github.com/braams/sippy/utils"
 )
 
 type Cli_server_local struct {

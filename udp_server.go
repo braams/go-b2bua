@@ -44,11 +44,11 @@ import (
     "syscall"
     "time"
 
-    "sippy/conf"
-    "sippy/log"
-    "sippy/net"
-    "sippy/time"
-    "sippy/utils"
+    "github.com/braams/sippy/conf"
+    "github.com/braams/sippy/log"
+    "github.com/braams/sippy/net"
+    "github.com/braams/sippy/time"
+    "github.com/braams/sippy/utils"
 )
 
 type write_req struct {

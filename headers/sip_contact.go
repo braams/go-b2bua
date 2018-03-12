@@ -27,8 +27,8 @@
 package sippy_header
 
 import (
-    "sippy/conf"
-    "sippy/net"
+    "github.com/braams/sippy/conf"
+    "github.com/braams/sippy/net"
 )
 
 type SipContact struct {

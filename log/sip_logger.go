@@ -31,7 +31,7 @@ import (
     "os"
     "fmt"
     "time"
-    "sippy/time"
+    "github.com/braams/sippy/time"
 )
 
 type SipLogger interface {

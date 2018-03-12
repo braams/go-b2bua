@@ -30,12 +30,12 @@ import (
     "sync"
     "time"
 
-    "sippy/conf"
-    "sippy/headers"
-    "sippy/net"
-    "sippy/time"
-    "sippy/types"
-    "sippy/utils"
+    "github.com/braams/sippy/conf"
+    "github.com/braams/sippy/headers"
+    "github.com/braams/sippy/net"
+    "github.com/braams/sippy/time"
+    "github.com/braams/sippy/types"
+    "github.com/braams/sippy/utils"
 )
 
 type Ua struct {

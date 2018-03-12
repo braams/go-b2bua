@@ -27,9 +27,9 @@
 package sippy
 
 import (
-    "sippy/headers"
-    "sippy/conf"
-    "sippy/types"
+    "github.com/braams/sippy/headers"
+    "github.com/braams/sippy/conf"
+    "github.com/braams/sippy/types"
 )
 
 type keepaliveController struct {

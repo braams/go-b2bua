@@ -29,8 +29,8 @@ package sippy_header
 import (
     "strings"
 
-    "sippy/conf"
-    "sippy/net"
+    "github.com/braams/sippy/conf"
+    "github.com/braams/sippy/net"
 )
 
 type sipAddressHFBody struct {

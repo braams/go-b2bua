@@ -26,7 +26,7 @@
 package sippy_sdp
 
 import (
-    "sippy/net"
+    "github.com/braams/sippy/net"
 )
 
 type SdpGeneric struct {

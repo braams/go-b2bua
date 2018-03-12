@@ -33,11 +33,11 @@ import (
     "sync"
     "time"
 
-    "sippy/conf"
-    "sippy/math"
-    "sippy/time"
-    "sippy/types"
-    "sippy/utils"
+    "github.com/braams/sippy/conf"
+    "github.com/braams/sippy/math"
+    "github.com/braams/sippy/time"
+    "github.com/braams/sippy/types"
+    "github.com/braams/sippy/utils"
 )
 
 const (

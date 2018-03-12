@@ -3,8 +3,8 @@ package sippy
 import (
     "strings"
 
-    "sippy/net"
-    "sippy/time"
+    "github.com/braams/sippy/net"
+    "github.com/braams/sippy/time"
 )
 
 type test_sip_transport_factory struct {

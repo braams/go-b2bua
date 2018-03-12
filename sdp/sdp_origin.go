@@ -34,7 +34,7 @@ import (
     "strconv"
     "sync/atomic"
 
-    "sippy/net"
+    "github.com/braams/sippy/net"
 )
 
 var _sdp_session_id int64

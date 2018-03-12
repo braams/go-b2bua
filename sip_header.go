@@ -30,8 +30,8 @@ import (
     "fmt"
     "strings"
 
-    "sippy/conf"
-    "sippy/headers"
+    "github.com/braams/sippy/conf"
+    "github.com/braams/sippy/headers"
 )
 
 var sip_header_name_map = map[string]func(body string) ([]sippy_header.SipHeader) {

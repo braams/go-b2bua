@@ -4,11 +4,11 @@ import (
     "sync"
     "testing"
 
-    "sippy/conf"
-    "sippy/log"
-    "sippy/net"
-    "sippy/time"
-    "sippy/types"
+    "github.com/braams/sippy/conf"
+    "github.com/braams/sippy/log"
+    "github.com/braams/sippy/net"
+    "github.com/braams/sippy/time"
+    "github.com/braams/sippy/types"
 )
 
 type test_sip_logger struct {

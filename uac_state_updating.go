@@ -29,9 +29,9 @@ package sippy
 import (
     "fmt"
 
-    "sippy/conf"
-    "sippy/headers"
-    "sippy/types"
+    "github.com/braams/sippy/conf"
+    "github.com/braams/sippy/headers"
+    "github.com/braams/sippy/types"
 )
 
 type UacStateUpdating struct {

@@ -29,7 +29,7 @@ package sippy_header
 import (
     "strings"
 
-    "sippy/net"
+    "github.com/braams/sippy/net"
 )
 
 type sipReplacesBody struct {

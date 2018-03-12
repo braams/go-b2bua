@@ -30,9 +30,9 @@ import (
     "sync"
     "time"
 
-    "sippy/headers"
-    "sippy/log"
-    "sippy/net"
+    "github.com/braams/sippy/headers"
+    "github.com/braams/sippy/log"
+    "github.com/braams/sippy/net"
 )
 
 type sip_transaction_state int

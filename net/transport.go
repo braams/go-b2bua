@@ -28,7 +28,7 @@
 package sippy_net
 
 import (
-    "sippy/time"
+    "github.com/braams/sippy/time"
 )
 
 type DataPacketReceiver func(data []byte, addr *HostPort, server Transport, rtime *sippy_time.MonoTime)

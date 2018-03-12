@@ -29,9 +29,9 @@ package sippy
 import (
     "sync"
 
-    "sippy/types"
-    "sippy/time"
-    "sippy/headers"
+    "github.com/braams/sippy/types"
+    "github.com/braams/sippy/time"
+    "github.com/braams/sippy/headers"
 )
 
 var global_event_seq int64 = 1

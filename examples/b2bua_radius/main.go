@@ -29,9 +29,9 @@ package main
 import (
     "strings"
 
-    "sippy"
-    "sippy/net"
-    "sippy/types"
+    "github.com/braams/sippy"
+    "github.com/braams/sippy/net"
+    "github.com/braams/sippy/types"
 )
 
 var global_static_route *B2BRoute

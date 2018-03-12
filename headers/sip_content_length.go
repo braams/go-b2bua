@@ -27,7 +27,7 @@
 package sippy_header
 
 import (
-    "sippy/net"
+    "github.com/braams/sippy/net"
 )
 
 var _sip_content_length_name compactName = newCompactName("Content-Length", "l")

@@ -30,7 +30,7 @@ import (
     "crypto/rand"
     "strconv"
 
-    "sippy/net"
+    "github.com/braams/sippy/net"
 )
 
 type SipCiscoGUID struct {

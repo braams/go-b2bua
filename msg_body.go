@@ -30,9 +30,9 @@ import (
     "fmt"
     "strings"
 
-    "sippy/net"
-    "sippy/sdp"
-    "sippy/types"
+    "github.com/braams/sippy/net"
+    "github.com/braams/sippy/sdp"
+    "github.com/braams/sippy/types"
 )
 
 type msgBody struct {

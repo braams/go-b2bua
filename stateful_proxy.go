@@ -27,10 +27,10 @@
 package sippy
 
 import (
-    "sippy/conf"
-    "sippy/headers"
-    "sippy/net"
-    "sippy/types"
+    "github.com/braams/sippy/conf"
+    "github.com/braams/sippy/headers"
+    "github.com/braams/sippy/net"
+    "github.com/braams/sippy/types"
 )
 
 type statefulProxy struct {

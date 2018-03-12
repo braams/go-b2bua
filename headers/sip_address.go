@@ -33,9 +33,9 @@ import (
     "strings"
     "unicode"
 
-    "sippy/conf"
-    "sippy/net"
-    "sippy/utils"
+    "github.com/braams/sippy/conf"
+    "github.com/braams/sippy/net"
+    "github.com/braams/sippy/utils"
 )
 
 type SipAddress struct {

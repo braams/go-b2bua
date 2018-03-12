@@ -28,8 +28,8 @@
 package sippy
 
 import (
-    "sippy/conf"
-    "sippy/net"
+    "github.com/braams/sippy/conf"
+    "github.com/braams/sippy/net"
 )
 
 type default_sip_transport_factory struct {

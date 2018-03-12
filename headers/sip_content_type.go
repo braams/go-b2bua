@@ -27,7 +27,7 @@
 package sippy_header
 
 import (
-    "sippy/net"
+    "github.com/braams/sippy/net"
 )
 
 type SipContentType struct {
